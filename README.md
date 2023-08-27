@@ -6,6 +6,6 @@ You can click the Preview link to take a look at your changes.
 
 I'm currenly learning category theory and vulkan, at least trying to :(.
 
-I'm moderately good at C(++?), Haskell, Rust and Python.
+I'm moderately good at Zig, C(++?), Haskell, Rust and Python.
 
 *Also, HTML+CSS form a fully functional imperative language.*
