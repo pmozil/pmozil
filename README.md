@@ -4,8 +4,8 @@ You can click the Preview link to take a look at your changes.
 --->
  	👋 Hi! I'm Petro Mozil, a student at UCU.
 
-I'm currenly learning SystemVerilog, FPGA and compiler theory, at least trying to :(.
+I'm interested in representation theory, automata and compilers, as well as compression, encoding and video processing.
 
-I'm moderately good at Zig, C/C++, Haskell, Rust and Python.
+I'm curently working as a software dev @ Infineon and writing my diploma
 
-*Also, async CPUs rock*
+Feel free to write to me @ <mozil.petryk@gmail.com>!
